@@ -20,6 +20,7 @@ if [[ "$(id -u)" -ne 0 ]]; then
     exit 1
 fi
 }
+# Telegram @HackerExploits
 
 dependencies() {
 
@@ -40,6 +41,7 @@ exit 1
 fi
 
 }
+# Telegram @HackerExploits
 
 banner() {
 
@@ -57,6 +59,7 @@ printf "\n"
 printf "\e[1;77m\e[45m  Instagram Brute Forcer v1.5.4 Author: crevils (Github) // @HackerExploits (Telegram) \e[0m\n"
 printf "\n"
 }
+# Telegram @HackerExploits
 
 function start() {
 banner
@@ -77,6 +80,7 @@ read -p $'\e[1;92mThreads (Use < 20, Default 10): \e[0m' threads
 threads="${threads:-${default_threads}}"
 fi
 }
+# Telegram @HackerExploits
 
 checktor() {
 
@@ -88,6 +92,8 @@ exit 1
 fi
 
 }
+# Telegram @HackerExploits
+# Telegram @HackerExploits
 
 function store() {
 
@@ -126,7 +132,7 @@ killall -HUP tor
 
 
 }
-
+# Give credits to crevil
 function bruteforcer() {
 
 checktor
@@ -161,6 +167,8 @@ done
 exit 1
 }
 
+# Give credits to crevil
+# Telegram @HackerExploits
 
 
 function resume() {
@@ -188,7 +196,7 @@ threads="${threads:-${default_threads}}"
 printf "\e[1;92m[*] Resuming session for user:\e[0m \e[1;77m%s\e[0m\n" $user
 printf "\e[1;92m[*] Wordlist: \e[0m \e[1;77m%s\e[0m\n" $wl_pass
 printf "\e[1;91m[*] Press Ctrl + C to stop or save session\n\e[0m"
-
+# Telegram @HackerExploits
 
 count_pass=$(wc -l $wl_pass | cut -d " " -f1)
 
@@ -212,9 +220,11 @@ changeip
 done
 exit 1
 }
+# Give credits to crevil
 
 case "$1" in --resume) resume ;; *)
 start
 bruteforcer
 esac
 
+# Give credits to crevil
