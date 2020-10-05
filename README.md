@@ -21,7 +21,7 @@ HackinGram is an Shell Script to perform multi-threaded brute force attack again
 ### Usage:
 ```
 git clone https://github.com/crevils/hackingram
-cd instashell
+cd hackingram
 chmod +x instashell.sh
 service tor start
 sudo ./instashell.sh
