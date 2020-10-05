@@ -13,6 +13,9 @@ HackinGram is an Shell Script to perform multi-threaded brute force attack again
 - Default password list (best +39k 8 letters)
 - Check and Install all dependencies
 
+<p align="center"><a href="https://github.com/crevils"><img title="Crevils" src="https://github-readme-stats.vercel.app/api?username=crevils&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
+
 ### Usage:
 ```
 git clone https://github.com/crevils/hackingram
