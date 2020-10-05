@@ -1,6 +1,6 @@
 #!/bin/bash
-# Coded by: github.com/thelinuxchoice
-# Instagram: @thelinuxchoice
+# Coded by: github.com/crevils
+# Instagram: @HackZec
 
 trap 'store;exit 1' 2
 string4=$(openssl rand -hex 32 | cut -c 1-4)
