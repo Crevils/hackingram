@@ -1,6 +1,8 @@
 # Hackingram v1.2
-<a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/hacker_Chatroom"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></n>
+<a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?style=for-the-badge&logo=appveyor?logo=Telegram"></a>
+
+<a href="https://t.me/hacker_Chatroom"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?style=for-the-badge&logo=appveyor?logo=telegram"></a>
+
 <a href="https://t.me/hacker_Chatroom"><img src="https://img.shields.io/badge/Report%20Bugs-green.svg?style=for-the-badge&logo=appveyor?logo=bugzilla"></a>
 ### Author: github.com/crevils
 ### Credits : @thelinuxchoice
