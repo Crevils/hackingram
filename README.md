@@ -3,6 +3,8 @@
 
 <a href="https://t.me/hacker_Chatroom"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?style=for-the-badge&logo=appveyor?logo=telegram"></a>
 
+<a href="https://t.me/hacker_Chatroom"><img src="https://img.shields.io/badge/Follow-Us-On%20Instagram-orange.svg?style=for-the-badge&logo=appveyor?logo=instagram"></a>
+
 <a href="https://t.me/hacker_Chatroom"><img src="https://img.shields.io/badge/Report%20Bugs-green.svg?style=for-the-badge&logo=appveyor?logo=bugzilla"></a>
 ### Author: github.com/crevils
 ### IG: instagram.com/hackZec
