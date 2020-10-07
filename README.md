@@ -35,9 +35,7 @@ bash instashell.sh
 chmod +x install.sh
 sudo ./install.sh
 ```
-<a href="https://img.shields.io/youtube/views/T-KjlocvuJk?label=Youtube%20Tutorial&style=social?style=for-the-badge&logo=appveyor?"></a>
-
-<a href="https://img.shields.io/youtube/views/T-KjlocvuJk?label=Youtube%20Tutorial&style=social?style=for-the-badge&logo=appveyor?"></a>
+<a href="https://img.shields.io/youtube/views/T-KjlocvuJk?label=Youtube%20Tutorial&style=social"></a>
 
 ### How it works?
 
