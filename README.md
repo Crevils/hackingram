@@ -4,6 +4,9 @@
 <a href="https://t.me/hacker_Chatroom"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?style=for-the-badge&logo=appveyor?logo=telegram"></a>
 
 <a href="https://t.me/hacker_Chatroom"><img src="https://img.shields.io/badge/Report%20Bugs-green.svg?style=for-the-badge&logo=appveyor?logo=bugzilla"></a>
+
+<a href="https://youtu.be/T-KjlocvuJk"><img src="https://img.shields.io/badge/Video-%20Tutorial-red.svg?style=social?logo=youtube"></a>
+
 ### Author: github.com/crevils
 ### IG: instagram.com/hackZec
 #### Don't copy this code without give me the credits, bitch! 
@@ -35,8 +38,6 @@ bash instashell.sh
 chmod +x install.sh
 sudo ./install.sh
 ```
-
-<a href="https://youtu.be/T-KjlocvuJk"><img src="https://img.shields.io/badge/Video-%20Tutorial-red.svg?style=social?logo=youtube"></a>
 
 
 ### How it works?
