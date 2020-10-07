@@ -36,7 +36,7 @@ chmod +x install.sh
 sudo ./install.sh
 ```
 
-<a href="https://youtu.be/T-KjlocvuJk"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?style=social?logo=youtube"></a>
+<a href="https://youtu.be/T-KjlocvuJk"><img src="https://img.shields.io/badge/Video-%20Tutorial-red.svg?style=social?logo=youtube"></a>
 
 
 ### How it works?
