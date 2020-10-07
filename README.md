@@ -18,13 +18,13 @@ HackinGram is an Shell Script to perform multi-threaded brute force attack again
 <p align="center"><a href="https://github.com/crevils"><img title="Crevils" src="https://github-readme-stats.vercel.app/api?username=crevils&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
-### Usage:
+### Usage For Linux (Use commands in root)
 ```
 git clone https://github.com/crevils/hackingram
 cd hackingram
 chmod +x instashell.sh
-service tor start
-sudo ./instashell.sh
+bash install.sh
+bash instashell.sh
 ```
 
 ### Install requirements (Curl, Tor, Openssl):
