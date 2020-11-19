@@ -8,7 +8,7 @@
 <a href="https://youtu.be/T-KjlocvuJk"><img src="https://img.shields.io/badge/Video-%20Tutorial-red.svg?style=social?logo=youtube"></a>
 
 ### Author: github.com/crevils
-### IG: instagram.com/hackZec
+
 #### Don't copy this code without give me the credits, bitch! 
 HackinGram is an Shell Script to perform multi-threaded brute force attack against Instagram, this script can bypass login limiting and it can test infinite number of passwords with a rate of +400 passwords/min using 20 threads.
 
